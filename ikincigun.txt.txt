@@ -2,3 +2,5 @@ GitGitHub Ikinci Gun Ilk Deneme
 GitGitHub Ikinci Gun Ikinci Deneme
 GitGitHub Ikinci Gun Ucuncu Deneme
 GitGitHub Ikinci Gun Yakup BRANCH 'I Deneme
+GitGitHub Ikinci Gun MASTER BRANCH 'I Deneme
+GitGitHub Ikinci Gun Yakup BRANCH 'I ikinci Deneme
